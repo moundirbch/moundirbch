@@ -1,10 +1,10 @@
-- 👋 Hi, I’m moundir
-- 👀 I’m interested in programmation
-- 🌱 I’m currently learning c and more 
-- 💞️ I’m looking to collaborate on "shit"
-- 📫 How to reach me ...
+I'm a sofiware ingenieur 4th with an unbridled passion for programming and a solid fascination for low level.
 
-<!---
-moundirbch/moundirbch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I absolutely love diving into new technologies, exploring the depths of their capabilities, and finding ingenious solutions to intricate problems.
+
+Languages and Tools:
+c java javascript mysql flutter 
+
+Why Programming
+"Programming is the new literacy of the digital age, and like every other form of literacy, it empowers those who learn it to change their lives and the world around them."
+Passionate about harnessing the power of diverse programming languages, I'm driven to craft tools that enhance our daily lives. My enthusiasm extends to the realm of software engineering, where I thrive on the challenge of building robust, scalable solutions that tackle real-world problems. From web applications to system software, I relish the opportunity to architect elegant solutions that drive efficiency and innovatio
